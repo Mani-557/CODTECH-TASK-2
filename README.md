@@ -16,7 +16,7 @@ Weather  forecast app is to predict and communicate atmospheric conditions for a
 
 KEY ACTIVITIES
 
-1) Create the Weather App UI Structure using the HTML elements like <div>, <h1>, <input> and <button>. Embed all the essential CDN links for Icons, Fonts, etc.
+1) Create the Weather App UI Structure using the HTML elements. Embed all the essential CDN links for Icons, Fonts, etc.
 2) Once the structure is created, the styling properties for each element like padding, box-shadow, transition, attractive effects like hovering, etc are been applied.
 3) In the main JavaScript file, the overall behavior of the application is been defined.
 Technologies Used
